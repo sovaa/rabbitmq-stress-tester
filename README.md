@@ -1,2 +1,2 @@
 # rabbitmq-stress-tester
-Python wrapper around rabbitmqadmin to send a lot of messages to RabbitMQ
+Python script using rabbitmq library pika to concurrently publish a lot of messages to a RabbitMQ instance.
